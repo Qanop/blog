@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.sawczuk.app',
+  url: 'https://sawczuk.dev',
   pathPrefix: '/',
   title: 'Just another fancy blog.',
   subtitle: 'The beginning is never easy. But we can get used to the difficulties and add a baggage of experience along the way.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'atryni_blog',
-  postsPerPage: 6,
+  disqusShortname: 'sawczuk.dev',
+  postsPerPage: 5,
   googleAnalyticsId: '0',
   useKatex: false,
   menu: [
@@ -22,6 +22,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Curriculum Vitae',
+      path: 'https://www.dropbox.com/s/n2lhyrrr6ixflzm/CV.pdf'
     }
   ],
   author: {
@@ -37,7 +41,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: '',
-      instagram: 'atryni_',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
@@ -45,7 +49,7 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       flickr: 'atryniphotography',
-      www: 'https://sawczuk.app/'
+      www: '' // 'https://sawczuk.dev/'
     }
   }
 };
