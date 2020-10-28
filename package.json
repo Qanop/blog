@@ -7,10 +7,10 @@
     "develop": "yarn run clean && gatsby develop",
     "build": "yarn run clean && gatsby build",
     "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",
-    "clean": "rm -Rf .cache public node_modules"
+    "clean": "rimraf .cache public"
   },
   "repository": "https://github.com/Atryni/blog",
-  "author": "Przemysław Sawczuk <alxshelepenok@gmail.com>",
+  "author": "Przemysław Sawczuk <przemeksawczuk@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gatsby",

@@ -6,16 +6,19 @@ all:
 	@echo Gatsby project for ${REPOSITORY} blog page.
 
 build:
-	gatsby build --prefix-paths
+	yarn run clean && gatsby build --prefix-paths
 
 current-date-tz:
 	date +%Y-%m-%dT%H:%M:%S.000Z
 
 deploy-gh-pages:
-	gatsby build --prefix-paths && gh-pages -d public -r https://${TOKEN}@github.com${REPOSITORY}
+	yarn run clean && gatsby build --prefix-paths && gh-pages -d public -r https://${TOKEN}@github.com${REPOSITORY}
 
 develop:
 	gatsby develop
 
-install-global:
+install:
+	yarn install
+
+install-tools:
 	sudo npm install -g gatsby gh-pages
