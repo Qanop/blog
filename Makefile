@@ -8,10 +8,11 @@ all:
 build:
 	yarn run clean && gatsby build --prefix-paths
 
+time: current-date-tz
 current-date-tz:
 	date +%Y-%m-%dT%H:%M:%S.000Z
 
-deploy-gh-pages:
+gh-pages:
 	yarn run clean && gatsby build --prefix-paths && gh-pages -d public -r https://${TOKEN}@github.com${REPOSITORY}
 
 develop:
