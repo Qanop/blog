@@ -1,13 +1,13 @@
 ---
-title: Set your VPS to media library with 2TB cloud storage
+title: Media library with 2TB cloud storage on VPS
 date: "2020-10-31T13:50:26.000Z"
 template: "post"
 draft: false
-slug: "vpn-with-2tb-cloud-storage"
+slug: "vps-with-2tb-cloud-storage"
 category: "Technology"
 tags:
   - "Server"
-description: "A lot of people have a collection of movies or photos that they would like to share with friends. Installing Netflix imitation services is good, but requires a really large amount of space on the VPS servers. Of course, there is a solution for that"
+description: "A lot of people have a collection of movies or photos that they would like to share with friends. Installing Netflix imitation services is good, but requires a really large amount of costly space on the VPS servers. Of course, there is a solution for that"
 socialImage: "media/movie.jpg"
 ---
 
