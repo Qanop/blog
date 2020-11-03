@@ -6,9 +6,9 @@ module.exports = {
   title: 'Just another fancy blog.',
   subtitle: 'The beginning is never easy. But we can get used to the difficulties and add a baggage of experience along the way.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'sawczuk.dev',
+  disqusShortname: 'sawczuk_dev',
   postsPerPage: 5,
-  googleAnalyticsId: '0',
+  googleAnalyticsId: 'UA-115450395-1',
   useKatex: false,
   menu: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       label: 'Curriculum Vitae',
-      path: '/eng_CV.pdf'
+      path: '/media/eng_CV.pdf'
     }
   ],
   author: {
