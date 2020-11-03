@@ -16,8 +16,8 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'Categories',
-      path: '/categories'
+      label: 'Tags',
+      path: '/tags'
     },
     {
       label: 'About me',
@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       label: 'Curriculum Vitae',
-      path: 'https://www.dropbox.com/s/n2lhyrrr6ixflzm/CV.pdf'
+      path: '/eng_CV.pdf'
     }
   ],
   author: {

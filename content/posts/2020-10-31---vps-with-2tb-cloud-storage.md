@@ -10,7 +10,6 @@ tags:
 description: "A lot of people have a collection of movies or photos that they would like to share with friends. Installing Netflix imitation services is good, but requires a really large amount of costly space on the VPS servers. Of course, there is a solution for that"
 socialImage: "media/movie.jpg"
 ---
-
 I have to admit, having your own private Netflix-like service is really nice.
 
 The project I have had contact with recently is Jellyfin. It is a very welcoming and multi-device media software system. The project, as in the case of kodi, allows you to manage the media library, download and complete information about the downloaded content, it has an automatic season organizer for TV Shows and allows you to watch Live TV & DVR and more. All this is available under the www panel placed on our home server or VPS. For all devices and access from everywhere.
