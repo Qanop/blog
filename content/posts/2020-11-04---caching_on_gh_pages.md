@@ -10,4 +10,4 @@ tags:
 description: "cache 10min"
 socialImage: "media/code.jpg"
 ---
-10 min
+10 min - update
