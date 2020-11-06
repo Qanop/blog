@@ -1,6 +1,6 @@
 // @flow strict
 import React from 'react';
-import ReactDisqusComments from 'react-disqus-comments';
+import { DiscussionEmbed } from 'disqus-react';
 import { useSiteMetadata } from '../../../hooks';
 
 type Props = {
@@ -14,14 +14,19 @@ const Comments = ({ postTitle, postSlug }: Props) => {
   if (!disqusShortname) {
     return null;
   }
-
+  
+  const disqusConfig = {
+    shortname: disqusShortname,
+    config: {
+      url: url + postSlug,
+      identifier: postTitle,
+      title: postTitle,
+      language: 'en'
+    }
+  }
+  
   return (
-    <ReactDisqusComments
-      shortname={disqusShortname}
-      identifier={postTitle}
-      title={postTitle}
-      url={url + postSlug}
-    />
+    <DiscussionEmbed {...disqusConfig}/>
   );
 };
 

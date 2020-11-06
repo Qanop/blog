@@ -1,9 +1,15 @@
+# CACHE, BUILDS, LIBRARIES
 node_modules/
 .cache/
-public/
-npm-debug.log
 .eslintcache
+public/
 .gatsby-context.js
-.idea
 gatsby-starter-lumen.iml
+npm-debug.log
+
+# IDE
+.vscode
+.idea
+
+# ENV
 .env
