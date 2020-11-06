@@ -6,7 +6,7 @@ module.exports = {
   title: 'Just another fancy blog.',
   subtitle: 'The beginning is never easy. But we can get used to the difficulties and add a baggage of experience along the way.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'sawczuk_dev',
+  disqusShortname: 'sawczuk-dev',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-115450395-1',
   useKatex: false,
