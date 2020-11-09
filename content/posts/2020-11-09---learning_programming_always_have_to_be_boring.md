@@ -8,14 +8,14 @@ category: "Technology"
 tags:
 - "Programming"
 description: "The beginnings are always difficult, whether when it comes to learning programming or trying to learn a new language. Usually we are looking for a fresh idea to systematically develop it as part of the acquired knowledge. It's hard to find something like this on the internet recently, so I'll share my ideas."
-socialImage: "media/notes-1.jpg"
+socialImage: "media/notes-2.jpg"
 ---
 
 The beginnings are always difficult, whether when it comes to learning only programming or trying to learn a new language. Usually we are looking for a fresh idea to systematically develop it as part of the acquired knowledge. It's hard to find something like this on the internet recently, so I'll share my ideas.
 
 The basis of each project is its future development. We can assume that our application, project or script has a chance for development, but also a change of direction. Therefore, the basic project itself must be quite flexible when it comes to introducing changes and allow for the implementation of many improvements and test solutions. This is very important, especially when developing your skills in a free way, where we should have our sandbox at our disposal.
 
-![Finding flexible base project](/media/notes-1.jpg)
+![Finding flexible base project](/media/notes-2.jpg)
 
 The first thing that comes to my mind when it comes to use is building chatbots. By browsing bot repositories for Discord or Telegram, we can discover that there are really thousands of them. Why am I giving this idea first? I once created a bot repository for Telegram as part of a project with friends "Let's write some cool code together". Each person had a different idea, but this did not prevent us from implementing and developing the project. Each of us has evolved while writing code, team findings and understanding some procedures from inside out. Of course, if I come up with another design base idea, I'd love to update it here.
 
