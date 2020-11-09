@@ -9,7 +9,7 @@ tags:
   - "Raspberry Pi"
   - "Server"
 description: "How to use again your old Raspberry Pi? A good way is to set up your home VPN + DNS server quickly and securely"
-socialImage: "media/rpi.jpg"
+socialImage: "media/rpi-1.jpg"
 ---
 Every time I want to get on with the Raspberry Pi topic, it goes back to the closet after a few days. The problem with running on a home server is so bothersome that we have to do everything ourselves, from installation to configuration. So while the very idea of using the device is wonderful, its implementation and spent time can surpass us.
 Therefore, it is worth realizing that the most changes are introduced by the method of small steps. By reusing the Raspberry Pi lying in the corner, the first step might be to run a simple ad-filtering DNS server on it. The next step could be configuring a VPN service to get from anywhere to home network devices.
@@ -18,7 +18,7 @@ Therefore, it is worth realizing that the most changes are introduced by the met
 As you know, I deal with photography. The problem that this creates is storing photos for processing. I have had many attempts to store photos on physical, portable and cloud drives. Unfortunately, none of these solutions proved to be 100% successful. The reasons were different. From problems with synchronization, disk filling, downloading blop from the clouds, disk loss or keeping photos only on one device. Therefore, the current solution I have is to use the NAS server with 2 TB storage itself. Of course, I'm not saying that this is the perfect solution, but it meets all my requirements at the moment. Almost.
 This fact forced me to take action and install two really nice server projects for Debian devices. Thanks to the operation, from today I can use and view my photo collections from anywhere. And in fact, I'm happy with the current result.
 
-![Preparation for RPi server use](/media/rpi.jpg)
+![Preparation for RPi server use](/media/rpi-1.jpg)
 
 ## PiHole
 I omit the information that I am starting the topic in reverse order as I was installing services on the Raspberry Pi. I am simply aware that this topic will be more interesting and will be useful to a wider audience. There is one reason. This is the fastest way to get rid of bothersome ads while surfing the internet. Most of us probably use the AdBlock browser plugin. Unfortunately, the last year shown that there is a way to found if plugin is enabled, and some sites catch it's and show us pop-up messages. The second problem is installing it on every device, bypassing the phone — unfortunately we have to use a clean browser instance here... Therefore, a great choice is to use the DNS service, which will block ads from showing up from the very network level. The advantages for sure will be:

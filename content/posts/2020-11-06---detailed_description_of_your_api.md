@@ -9,12 +9,12 @@ tags:
   - "Programming"
   - "Curiosity"
 description: "A good described API is attitude. Especially when planning architecture, where other teams work on its successive elements. Therefore, it is so important to describe in detail each API path. For this, it is worth using the right tool."
-socialImage: "media/code.jpg"
+socialImage: "media/code-3.jpg"
 ---
 A good described API is attitude. Especially when planning architecture, where other teams work on its successive elements. Therefore, it is so important to describe in detail each API path. For this, it is worth using the right tool.
 With a growing team, you need to be aware that communication between people must be at the highest level. To do this, it is often interfered with the introduction of many management tools. With such activities, you should also remember about the list of documentation and knowledge sharing. [Swagger](swagger.io) is one of such tool to help share information between developers about API endpoints in the project.
 
-![Functions of Swagger](/media/code.jpg)
+![Functions of Swagger](/media/code-3.jpg)
 
 This tool is most often found in the form of various libraries for automatic building of API documentation from the current project code. Sure, this is one of the possibilities of this project, but often people overlook the standard operation of the main tool itself. For their integration, libraries ignore many additional functionalities provided by the basic swagger tool. Also, such libraries often may not allow for some kind of adding comments or define some kind of elements as additional or existing under some specific logic. Another thing is the modification of documentation that is scattered all over the code. Therefore, it is worth taking a look at the basic operation of the Swagger Editor itself.
 

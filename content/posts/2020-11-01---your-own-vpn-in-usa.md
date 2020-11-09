@@ -8,14 +8,14 @@ category: "Technology"
 tags:
   - "Server"
 description: "Regional locks aren't fun. They always cause a problem with access to certain sources. VPN service charges are often high, and the free versions only offer a certain usage limit or are bandwidth-constrained. Therefore, why not set up your own free VPN server overseas?"
-socialImage: "media/server.jpg"
+socialImage: "media/server-1.jpg"
 ---
 Regional locks aren't nice. They always cause a problem with access to certain sources. VPN service charges are often high, and the free versions only offer a certain usage limit or are bandwidth-constrained. Therefore, why not set up your own free VPN server overseas?
 
 ## Virtal Private Server
 There are a lot of VPS offers on the Internet. This time the search is directed a bit differently than the access and HTTP servers. The first thing we need to pay attention to is where the service is run, and then what is the suggested rental price of the resources. From large suppliers, we may be interested in well-known service providers such as OVH, AWS, Azure or Google. They can often have strong server rental deals or special free-tier offers. However, be careful whether the server will not be refunded after the end of the promotional period.
 
-![Solutions for own media center](/media/server.jpg)
+![Solutions for own media center](/media/server-1.jpg)
 
 In paid offers from service providers you can find very cheap servers listed below
 
