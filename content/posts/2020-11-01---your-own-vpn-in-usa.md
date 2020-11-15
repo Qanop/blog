@@ -3,7 +3,7 @@ title: Your own VPN service in USA
 date: "2020-11-01T21:37:05.000Z"
 template: "post"
 draft: false
-slug: "your_own_vpn_service_in_usa"
+slug: "your-own-vpn-service-in-usa"
 category: "Technology"
 tags:
   - "Technology"

@@ -3,7 +3,7 @@ title: Know what beef you want to add to the basket
 date: "2020-11-15T18:00:50.000Z"
 template: "post"
 draft: false
-slug: "buy-right-beef"
+slug: "know-what-beef-you-want-to-add-to-the-basket"
 category: "Cooking"
 tags:
 - "Cooking"

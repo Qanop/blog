@@ -3,7 +3,7 @@ title: Detailed description of your API
 date: "2020-11-06T22:38:31.000Z"
 template: "post"
 draft: false
-slug: "detailed_description_of_your_api"
+slug: "detailed-description-of-your-api"
 category: "Technology"
 tags:
   - "Technology"

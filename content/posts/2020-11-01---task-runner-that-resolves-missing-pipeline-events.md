@@ -3,7 +3,7 @@ title: Task runner that resolves missing pipeline events
 date: "2020-11-01T17:01:53.000Z"
 template: "post"
 draft: false
-slug: "task_runner_that_resolves_missing_pipeline_events"
+slug: "task-runner-that-resolves-missing-pipeline-events"
 category: "Technology"
 tags:
   - "Technology"

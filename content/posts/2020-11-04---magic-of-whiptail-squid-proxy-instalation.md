@@ -3,7 +3,7 @@ title: Magic of whiptail and Squid proxy installation
 date: "2020-11-04T21:50:47.000Z"
 template: "post"
 draft: false
-slug: "magic_of_whiptail_squid_proxy_instalation"
+slug: "magic-of-whiptail-squid-proxy-instalation"
 category: "Technology"
 tags:
   - "Technology"

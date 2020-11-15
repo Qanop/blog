@@ -3,7 +3,7 @@ title: Does the beginning of learning programming always have to be boring?
 date: "2020-11-09T00:31:12.000Z"
 template: "post"
 draft: false
-slug: "learning_programming_not_always_have_to_be_boring"
+slug: "learning-programming-not-always-have-to-be-boring"
 category: "Technology"
 tags:
 - "Technology"
