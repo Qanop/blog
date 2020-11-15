@@ -6,6 +6,7 @@ draft: false
 slug: "learning_programming_not_always_have_to_be_boring"
 category: "Technology"
 tags:
+- "Technology"
 - "Programming"
 description: "The beginnings are always difficult, whether when it comes to learning programming or trying to learn a new language. Usually we are looking for a fresh idea to systematically develop it as part of the acquired knowledge. It's hard to find something like this on the internet recently, so I'll share my ideas."
 socialImage: "media/notes-2.jpg"

@@ -6,6 +6,7 @@ draft: false
 slug: "your_own_vpn_service_in_usa"
 category: "Technology"
 tags:
+  - "Technology"
   - "Server"
 description: "Regional locks aren't fun. They always cause a problem with access to certain sources. VPN service charges are often high, and the free versions only offer a certain usage limit or are bandwidth-constrained. Therefore, why not set up your own free VPN server overseas?"
 socialImage: "media/server-1.jpg"

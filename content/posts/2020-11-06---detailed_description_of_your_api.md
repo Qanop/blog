@@ -6,8 +6,8 @@ draft: false
 slug: "detailed_description_of_your_api"
 category: "Technology"
 tags:
+  - "Technology"
   - "Programming"
-  - "Curiosity"
 description: "A good described API is attitude. Especially when planning architecture, where other teams work on its successive elements. Therefore, it is so important to describe in detail each API path. For this, it is worth using the right tool."
 socialImage: "media/code-3.jpg"
 ---

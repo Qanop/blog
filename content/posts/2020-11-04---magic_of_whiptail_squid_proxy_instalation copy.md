@@ -6,8 +6,9 @@ draft: false
 slug: "magic_of_whiptail_squid_proxy_instalation"
 category: "Technology"
 tags:
+  - "Technology"
   - "Server"
-  - "Curiosity"
+  - "Programming"
   - "Code Snippets"
 description: "When installing a bash open source project, I was always full of admiration for the developers who implemented the graphical interface. I was curious how it works and how I could apply it to my projects. The solution is simple - whiptail"
 socialImage: "media/code-2.jpg"

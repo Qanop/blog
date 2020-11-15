@@ -6,6 +6,7 @@ draft: false
 slug: "vps-with-2tb-cloud-storage"
 category: "Technology"
 tags:
+  - "Technology"
   - "Server"
 description: "A lot of people have a collection of movies or photos that they would like to share with friends. Installing Netflix imitation services is good, but requires a really large amount of costly space on the VPS servers. Of course, there is a solution for that"
 socialImage: "media/movie.jpg"
