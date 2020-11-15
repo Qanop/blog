@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Przemysław Sawczuk',
     photo: '/photo.jpg',
-    bio: 'The beginning is never easy. But we can get used to the difficulties and add a baggage of experience along the way.',
+    bio: 'Just a simple, personal blog to save and share knowledge.',
     contacts: {
       email: 'przemeksawczuk@yahoo.pl',
       facebook: '',

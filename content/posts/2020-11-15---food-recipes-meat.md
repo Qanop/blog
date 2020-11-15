@@ -13,6 +13,8 @@ socialImage: "media/food-2.jpg"
 ---
 Free time is a really good thing. We can use it freely - including cooking something extraordinary. In this time we can approach cooking with great creativity and eagerness. Having the recipe, we can modify it at will, there are no bad results. When finding a good new recipe, I will certainly keep the list updated. In the end, I will also look here myself to recall even the list of ingredients or the next steps.
 
+![Lets go cooking](/media/food-2.jpg)
+
 ### Chaliapin Steak Don
 The recipe is obtained mainly from the Food Wars anime, which beautifully describes and imitates real recipes known all over the world. I had several approaches to this dish and I must admit, there are no bad results here - each variant tastes special. Don himself is really well described on the [CHEFPK channel](https://www.youtube.com/watch?v=6TiCcI3s6ZM).
 

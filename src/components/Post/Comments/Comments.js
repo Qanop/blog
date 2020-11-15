@@ -1,33 +1,25 @@
 // @flow strict
 import React from 'react';
-import { DiscussionEmbed } from 'disqus-react';
 import { useSiteMetadata } from '../../../hooks';
 
 type Props = {
-  postTitle: string,
   postSlug: string
 };
 
-const Comments = ({ postTitle, postSlug }: Props) => {
-  const { url, disqusShortname } = useSiteMetadata();
+const Comments = ({ postSlug }: Props) => {
+  const { url } = useSiteMetadata();
 
-  if (!disqusShortname) {
-    return null;
-  }
-  
-  const disqusConfig = {
-    shortname: disqusShortname,
-    config: {
-      url: url + postSlug,
-      identifier: postTitle,
-      title: postTitle,
-      language: 'en'
-    }
-  }
-  
   return (
-    <DiscussionEmbed {...disqusConfig}/>
-  );
+    <div style={{'text-align-last': 'center'}}>
+      <a
+        href={'https://twitter.com/search?q=' + url + postSlug}
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Join discussion on <strong>Twitter</strong>
+      </a>
+    </div>
+  )
 };
 
 export default Comments;

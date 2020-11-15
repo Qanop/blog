@@ -1,18 +1,18 @@
 ---
-title: "Buy right meat"
+title: "Buy right beef"
 date: "2020-11-15T18:00:50.000Z"
 template: "post"
 draft: false
-slug: "buy-right-meat"
+slug: "buy-right-beef"
 category: "Cooking"
 tags:
 - "Cooking"
 description: "Buying good meat is really important. It may turn out that the meat seen on the promotion or on the shelf may not completely match our dish. Therefore, it makes sense to have a list of pieces of meat that are suitable for specific dishes. It is also worth being aware of what the meat should look like or what price you can expect"
-socialImage: "media/food-1.jpg"
+socialImage: "media/food-3.jpg"
 ---
 Buying good meat is really important. It may turn out that the meat seen on the promotion or on the shelf may not completely match our dish. Therefore, it makes sense to have a list of pieces of meat that are suitable for specific dishes. It is also worth being aware of what the meat should look like or what price you can expect.
 
-# Beef steaks
+![Choose rigth beef for you](/media/food-3.jpg)
 
 ### Antrykot (cote de boeuf) 
 It contains part of the longest back muscle and part of the intercostal muscles with very fine fibers. Additionally, it has beautiful hypertrophy of the so-called intramuscular fat. marble that makes the steaks particularly juicy.
