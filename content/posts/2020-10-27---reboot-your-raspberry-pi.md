@@ -8,7 +8,6 @@ category: "Technology"
 tags:
   - "Technology"
   - "Server"
-  - "Raspberry Pi"
 description: "How to use again your old Raspberry Pi? A good way is to set up your home VPN + DNS server quickly and securely"
 socialImage: "media/rpi-1.jpg"
 ---

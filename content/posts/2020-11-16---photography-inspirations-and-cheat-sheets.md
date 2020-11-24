@@ -59,4 +59,5 @@ Missing poses for photos in the background can be supplemented using materials f
 - [How To Learn Boudoir Photography Fast](https://www.youtube.com/watch?v=BbySBYjL4E0)
 - [How To Get VARIETY In Your Boudoir Photos](https://www.youtube.com/watch?v=UIP3U05ZPgQ)
 - [120 seconds of Studio Photography tips](https://www.youtube.com/watch?v=Pfyq8z0TpQc)
-- [HSS Flash in the Studio: Take and Make Great Photography with Gavin Hoey](https://www.youtube.com/watch?v=eqdvNaLarz4)
+- [HSS Flash in the Studio](https://www.youtube.com/watch?v=eqdvNaLarz4)
+- [Flash Sync Speed in the Studio](https://www.youtube.com/watch?v=uay4SpzT2wc)
