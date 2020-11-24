@@ -12,12 +12,14 @@ socialImage: "media/photo-2.jpg"
 ---
 It happens that in the photos with the model we have no idea for new frames, or the ones that were used are repeated in each session. When looking for alternatives of styles, poses, arrangement of light or the use of objects in web, we often come across links that are not needed at the moment. However, it is worth saving them for later and grouping them.
 
-![Photography: inspirations and cheat sheets](/media/photo-1.jpg)
+![Photography: inspirations and cheat sheets](/media/photo-2.jpg)
 
 ## Pinterest
+
 Every now and then, it's a good idea to sit down for a day and gather ideas. We can then save the collected photos or links in specific styles and present them to other people. Thanks to a well-prepared modboard, which looks different depending on the person who uses it, we can predict in what style a particular session would be aimed at. [Signing up is free](https://pinterest.com) and collecting ideas is really interesting. From one day and looking for similar photos, we can choose a lot of styles and inspirations.
 
 ## Poses
+
 Missing poses for photos in the background can be supplemented using materials for artists. They often use real photos or the person themselves. Using the resources of, among others, the _Art Model Reference Images to Draw_ series created by New Masters Academy, with each episode we can be inspired by reference photos
 - [Art Model Reference - Ballet](https://www.youtube.com/watch?v=rWbeelH9eCA)
 - [Art Model Reference - Athletics](https://www.youtube.com/watch?v=mNNSwITdPIM)
@@ -42,14 +44,19 @@ Missing poses for photos in the background can be supplemented using materials f
 - [Beauty dish vs Softbox vs Umbrella | Light Modifiers Compared](https://www.youtube.com/watch?v=Bb0aBun182g)
 - [Can you use a SPEEDLIGHT to take dramatic portraits in bright sun?](https://www.youtube.com/watch?v=ohFOLUF1NNM)
 - [The ULTIMATE 3 Light setup in 150 seconds!](https://www.youtube.com/watch?v=uMwGVYU_eq0)
+- [The ULTIMATE one Light setup on a BUDGET (Anyone can do this)](https://www.youtube.com/watch?v=jr-5Q2LDafg)
 
 
 ## Behind the scenes
+
 - [Hour Beach Photoshoot with Irene Rudnyk](https://youtu.be/iuXiTtFOO20Golden)
 - [Natural Light Backlit Photoshoot with Irene Rudnyk](https://youtu.be/6_l2dBFJscw)
 - [4 PHOTOGRAPHERS SHOOT THE SAME MODEL](https://youtu.be/w9b07-9aDZs)
 - [Dramatic Lighting and Smoke](https://youtu.be/tQHHsXgzywg)
 
 ## Tips
+
 - [How To Learn Boudoir Photography Fast](https://www.youtube.com/watch?v=BbySBYjL4E0)
+- [How To Get VARIETY In Your Boudoir Photos](https://www.youtube.com/watch?v=UIP3U05ZPgQ)
 - [120 seconds of Studio Photography tips](https://www.youtube.com/watch?v=Pfyq8z0TpQc)
+- [HSS Flash in the Studio: Take and Make Great Photography with Gavin Hoey](https://www.youtube.com/watch?v=eqdvNaLarz4)
