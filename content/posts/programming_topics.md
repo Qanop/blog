@@ -7,6 +7,8 @@ slug: "programming_topics"
 category: "Technology"
 tags:
 - "Technology"
+- "Knowledge books"
+- "Dev"
 description: ""
 socialImage: "media/code-1.jpg"
 ---

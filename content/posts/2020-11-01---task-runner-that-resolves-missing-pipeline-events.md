@@ -7,8 +7,8 @@ slug: "task-runner-that-resolves-missing-pipeline-events"
 category: "Technology"
 tags:
   - "Technology"
-  - "CI/CD"
-  - "Programming"
+  - "Dev"
+  - "CI / CD"
 description: "When creating pipelines for releasing things to the environment, we may run into the problem of handling too few events. By searching the internet, we can find a quite interesting task runner library that will help us in missing pipelines events"
 socialImage: "media/code-1.jpg"
 ---

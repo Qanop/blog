@@ -3,12 +3,12 @@ title: Why dockerizing production isn't bad idea
 date: "2020-11-24T19:39:40.000Z"
 template: "post"
 draft: false
-slug: "why_dockerizing_production_isnt_bad_idea"
+slug: "why-dockerizing-production-isnt-bad-idea"
 category: "Technology"
 tags:
 - "Technology"
-- "Server"
-- "CI/CD"
+- "Ops / DevOps"
+- "CI / CD"
 description: "The use of docker is a common technique in dev teams. But really, creating and using the complete ready-made image shows its potential in the production environment. I think this post will convince some Ops to look more positively at running closed images over the installation and putting projects directly on the servers"
 socialImage: "media/server-3.jpg"
 ---
@@ -18,7 +18,7 @@ There are many benefits to using images. For the development of the application,
 
 ![Birth of DevOps](/media/server-3.jpg)
 
-Each team looks for Docker and its derivative benefits in terms of work efficiency and simplification of the tasks assigned to them. Therefore, to better understand each of the teams and their point of view, each has its own chapter. This will allow you to understand the possibility of using this technology in every step of the project.
+Each team looks for Docker and its derivative benefits in terms of work efficiency and simplification of the tasks assigned to them. Therefore, to better understand each of the teams and their point of view, each has its chapter. This will allow you to understand the possibility of using this technology in every step of the project.
 
 ## Dev
 Creating docker images while developing an application is currently one of the requirements in the hiring process. This is more or less because previously programmers had to build up their programming environment. Knowledge of Linux was a standard in the job description ever to know how to install the appropriate version of packages for the operation of their project. Unfortunately, the problem of installing main packages by programmers grew when they started working on several projects at the same time in different global package versions. Unfortunately, switching between versions was not convenient, it often required additional configuration files, and sometimes it forced to re-install them. Virtualization came to the rescue, which separated each project and did not require having specific versions of packages on the user's main system. Due to the [hardware consumption and number of layers](https://geekflare.com/docker-vs-virtual-machine/) in virtualization technology, Docker is the most used today.
@@ -53,4 +53,4 @@ Updating the prod environment using Docker tools (application downtime):
 - negative path
 - run old version of the image (~ 1 min)
 
-Seeing the steps given, you can see that preparing an image with built libraries, a good version of the software, and included code is a big profit. By adding release automation and even server conversion to a [Kubernetes cluster](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/), we simplify the issue of publishing drastically. Images created by teams are closed by default and it is up to us how we make them available to the world - or the environment configuration team will take care of it. By receiving such a simplification, people responsible for security and services can focus on their own tickets and improving their work.
+Seeing the steps given, you can see that preparing an image with built libraries, a good version of the software, and included code is a big profit. By adding release automation and even server conversion to a [Kubernetes cluster](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/), we simplify the issue of publishing drastically. Images created by teams are closed by default and it is up to us how we make them available to the world - or the environment configuration team will take care of it. By receiving such a simplification, people responsible for security and services can focus on their tickets and improving their work.

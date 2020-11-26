@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Knowledge books',
+      path: '/tag/knowledge-books'
+    },
+    {
       label: 'Tags',
       path: '/tags'
     },

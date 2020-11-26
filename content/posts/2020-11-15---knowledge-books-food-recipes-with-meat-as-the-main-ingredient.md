@@ -1,16 +1,18 @@
 ---
-title: "Food recipes: Meat"
+title: "Knowledge books: Food recipes with meat as the main ingredient"
 date: "2020-11-15T19:08:58.000Z"
 template: "post"
 draft: false
-slug: "food-recipes-meat"
+slug: "knowledge-books-food-recipes-with-meat-as-the-main-ingredient"
 category: "Cooking"
 tags:
 - "Cooking"
-- "Food recipes"
+- "Knowledge books"
 description: "Free time is a really good thing. We can use it freely - including cooking something extraordinary. In this time we can approach cooking with great creativity and eagerness. Having the recipe, we can modify it at will, there are no bad results. When finding a good new recipe, I will certainly keep the list updated"
 socialImage: "media/food-2.jpg"
 ---
+_**Knowledge books** is a mini series of constantly updated articles in which I share my more interesting discoveries_
+
 Free time is a really good thing. We can use it freely - including cooking something extraordinary. In this time we can approach cooking with great creativity and eagerness. Having the recipe, we can modify it at will, there are no bad results. When finding a good new recipe, I will certainly keep the list updated. In the end, I will also look here myself to recall even the list of ingredients or the next steps.
 
 ![Lets go cooking](/media/food-2.jpg)
