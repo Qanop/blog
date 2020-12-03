@@ -1,9 +1,9 @@
 ---
-title: "Knowledge books: Food recipes with meat as the main ingredient"
+title: "Knowledge books: Food recipes"
 date: "2020-11-15T19:08:58.000Z"
 template: "post"
 draft: false
-slug: "knowledge-books-food-recipes-with-meat-as-the-main-ingredient"
+slug: "knowledge-books-food-recipes"
 category: "Cooking"
 tags:
 - "Cooking"
@@ -36,3 +36,28 @@ Modifications:
 - The meat can be prepared sous vide by enclosing it in a bag together with the marinade
 - An addition to rice can be rice sauce or dried Japanese cherry particles
 - While in a rice cooker, you can add additional ingredients to make rice soak in additional flavors
+
+# Massaman curry
+It's worth experimenting in the kitchen. Thanks to them, we have rediscovery tasteful combinations of flavors. Last time I was able to put together a good combination for the curry
+
+Ingredients:
+- chicken/pork/beef meat
+- 1 onion / 200g meat
+- massaman curry paste
+- rice
+- soy sauce & teriyaki sauce
+- salt, garlic, citric acid, ground paprika, ginger
+
+Extras:
+- yakisoba sauce
+- dry wine 
+- rice vinegar
+
+Preparations should start with the onion glazing and rice cooking simultaneously. During frying, it is worth adding spices such as garlic, citric acid, and a pinch of salt to it. When the onion is almost ready, add the meat that will use the current sauce. To increase the flavor variation of the meat, you can add additional spices such as ground paprika or ginger. The next step is to pour coconut milk over the pan content and add the curry paste. Add soy and teriyaki sauce, rice vinegar, and reduce the sauce. Halfway through the process, add extra dry wine to enhance the umami of the curry. The finished product should be served in a bowl along with rice, cherry tomatoes, and chives. The variation in the preparation of the dish may simply change.
+
+Modifications:
+- a flavor variation to the cooking rice
+    - yakisoba sauce and rice vinegar
+    - soy sauce and a mixture of ground paprika
+- curry works very well with the 5-taste variant (not 5-flavor variant), so add a different mix of spices
+- rice to increase its taste, you can fry it slowly with an egg in a pan (it's worth adding spices to close them in the middle of the rice coated with egg protein)
