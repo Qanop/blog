@@ -17,7 +17,7 @@ Free time is a really good thing. We can use it freely - including cooking somet
 
 ![Lets go cooking](/media/food-2.jpg)
 
-### Chaliapin Steak Don
+## Chaliapin Steak Don
 The recipe is obtained mainly from the Food Wars anime, which beautifully describes and imitates real recipes known all over the world. I had several approaches to this dish and I must admit, there are no bad results here - each variant tastes special. Don himself is really well described on the [CHEFPK channel](https://www.youtube.com/watch?v=6TiCcI3s6ZM).
 
 Ingredients:
@@ -37,7 +37,7 @@ Modifications:
 - An addition to rice can be rice sauce or dried Japanese cherry particles
 - While in a rice cooker, you can add additional ingredients to make rice soak in additional flavors
 
-# Massaman curry
+## Massaman curry
 It's worth experimenting in the kitchen. Thanks to them, we have rediscovery tasteful combinations of flavors. Last time I was able to put together a good combination for the curry
 
 Ingredients:

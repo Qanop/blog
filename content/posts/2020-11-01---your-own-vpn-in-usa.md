@@ -8,8 +8,7 @@ category: "Technology"
 tags:
   - "Technology"
   - "Ops / DevOps"
-description: "Regi
-onal locks aren't fun. They always cause a problem with access to certain sources. VPN service charges are often high, and the free versions only offer a certain usage limit or are bandwidth-constrained. Therefore, why not set up your own free VPN server overseas?"
+description: "Regional locks aren't fun. They always cause a problem with access to certain sources. VPN service charges are often high, and the free versions only offer a certain usage limit or are bandwidth-constrained. Therefore, why not set up your own free VPN server overseas?"
 socialImage: "media/server-1.jpg"
 ---
 Regional locks aren't nice. They always cause a problem with access to certain sources. VPN service charges are often high, and the free versions only offer a certain usage limit or are bandwidth-constrained. Therefore, why not set up your own free VPN server overseas?
