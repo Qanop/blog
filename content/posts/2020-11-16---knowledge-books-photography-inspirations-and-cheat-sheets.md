@@ -32,6 +32,7 @@ Some of my boards:
 - [Santa/Christmas](https://pinterest.com/atryni/psboard-christmas/)
 - [Interesting poses with the use of a chair](https://pinterest.com/atryni/psboard-chair/)
 - [Poses for models](https://pinterest.com/atryni/psboard-poses/)
+- [Light setup](https://pl.pinterest.com/atryni/psboard-light-setup/)
 - [New ideas to sort in right boards](https://pinterest.com/atryni/psboard-to-sort/)
 
 ## Poses
