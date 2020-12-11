@@ -21,6 +21,19 @@ It happens that in the photos with the model we have no idea for new frames, or 
 
 Every now and then, it's a good idea to sit down for a day and gather ideas. We can then save the collected photos or links in specific styles and present them to other people. Thanks to a well-prepared modboard, which looks different depending on the person who uses it, we can predict in what style a particular session would be aimed at. [Signing up is free](https://pinterest.com) and collecting ideas is really interesting. From one day and looking for similar photos, we can choose a lot of styles and inspirations.
 
+Some of my boards:
+- [Nature (All seasons)](https://pinterest.com/atryni/psboard-nature/)
+- [Urban](https://pinterest.com/atryni/psboard-urban/)
+- [Outside in night](https://pinterest.com/atryni/psboard-outside-night/)
+- [Fashion/Studio background](https://pinterest.com/atryni/psboard-fashion/)
+- [Comfy](https://pinterest.com/atryni/psboard-comfy/)
+- [Boudoir](https://pinterest.com/atryni/psboard-boudoir/)
+- [Sensual](https://pinterest.com/atryni/psboard-sensual/)
+- [Santa/Christmas](https://pinterest.com/atryni/psboard-christmas/)
+- [Interesting poses with the use of a chair](https://pinterest.com/atryni/psboard-chair/)
+- [Poses for models](https://pinterest.com/atryni/psboard-poses/)
+- [New ideas to sort in right boards](https://pinterest.com/atryni/psboard-to-sort/)
+
 ## Poses
 
 Missing poses for photos in the background can be supplemented using materials for artists. They often use real photos or the person themselves. Using the resources of, among others, the _Art Model Reference Images to Draw_ series created by New Masters Academy, with each episode we can be inspired by reference photos
