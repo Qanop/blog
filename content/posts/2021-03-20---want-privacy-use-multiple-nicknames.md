@@ -8,7 +8,7 @@ category: "Technology"
 tags:
   - "Technology"
 description: "Our internet presence is not anonymous. What to do with this fact, how to deal with it, and plan our anonymity on the Internet?"
-socialImage: "/media/notes-2.jpg"
+socialImage: "media/notes-2.jpg"
 ---
 At one point in being on the Internet and creating dozens of accounts, we are faced with one disturbing fact. Our internet presence is not anonymous. What to do with this fact, how to deal with it, and plan our anonymity on the Internet?
 
