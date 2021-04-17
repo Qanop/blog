@@ -7,7 +7,7 @@ slug: "not-knowing-docker-image-configuration-try-runalike"
 category: "Technology" 
 tags: 
   - "Technology" 
-  - "DevOps" 
+  - "Ops / DevOps" 
 description: "The `docker inspect` will certainly come in handy, but the same one can little be unreadable - or it just requires the unreasonable rewriting of all values of the indicated result. Therefore, a simple image of assaflava / runlike was created which makes the work easier" 
 socialImage: "media/code-3.jpg" 
 ---
