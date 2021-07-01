@@ -1,6 +1,6 @@
 ---
 title: Git Merging Strategies
-date: "2021-06-31T18:23:03.000Z"
+date: "2021-06-30T18:23:03.000Z"
 template: "post"
 draft: false
 slug: "git-merging-strategies"
