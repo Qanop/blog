@@ -2,7 +2,7 @@
 title: IaC as server automation
 date: "2021-05-23T23:20:12.000Z"
 template: "post"
-draft: false
+draft: true
 slug: "iac-as-server-automation"
 category: "Technology"
 tags:
