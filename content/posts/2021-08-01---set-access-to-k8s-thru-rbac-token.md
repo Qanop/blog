@@ -8,7 +8,7 @@ category: "Technology"
 tags:
   - "Technology"
   - "Ops / DevOps"
-description: "How to give access only to logs to dev team on running k8s env? I finnaly found gist snippet that works"
+description: "How to give access only to logs to dev team on running k8s env? I finally found gist snippet that works"
 socialImage: "media/server-2.jpg"
 ---
 Recently, I was trying to find a suitable way to share the k8s logs with the development team. After searching the internet, I finally found a suitable and current solution for the new kuberentes versions. With a little help and a mini-customization of the code, I present the result for everyone who will need help. Let the code be with you!

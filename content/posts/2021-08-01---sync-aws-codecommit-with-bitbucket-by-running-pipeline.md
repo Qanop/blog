@@ -1,6 +1,6 @@
 ---
 title: Sync AWS CodeCommit with Bitbucket by running pipeline
-date: "2021-08-01T20:28:38.000Z"
+date: "2021-08-01T23:01:48.000Z"
 template: "post"
 draft: false
 slug: "sync-aws-codecommit-with-bitbucket-by-running-pipeline"
