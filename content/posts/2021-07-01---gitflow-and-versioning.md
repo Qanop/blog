@@ -9,7 +9,7 @@ tags:
   - "Technology"
   - "Ops / DevOps"
 description: "Trying to keep the branch in order, we can use the GitFlow formula and adjust our tactics for future product releases. Each version and its important aspect has its own initials and ever additional values as release candidates"
-socialImage: "media/server-1.jpg"
+socialImage: "media/server-4.jpg"
 ---
 Trying to keep the branch in order, we can use the GitFlow formula and adjust our tactics for future product releases. Each version and its important aspect has its own initials and ever additional values as release candidates. In addition, the tagging system and its automation ensure the integrity of project tags even in the event of unwanted but often used hotfixes of the main branch.
 

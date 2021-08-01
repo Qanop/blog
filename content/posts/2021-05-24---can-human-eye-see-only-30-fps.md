@@ -8,7 +8,7 @@ category: "Technology"
 tags:
   - "Technology"
 description: ""
-socialImage: "media/notes-2.jpg"
+socialImage: "media/notes-1.jpg"
 ---
 Może starzy konsolowcy się ze mną nie zgodzą, ale ludzkie oko potrafi poznać, że obraz zwiększył swoją płynność. W tym przypadku udało mi się przetestowac to w najnoweszej aktualizacji mojego Oculusa zwiększającej odświeżanie z 90Hz na 120Hz.
 

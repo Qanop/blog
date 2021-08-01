@@ -9,7 +9,7 @@ tags:
   - "Technology" 
   - "Ops / DevOps" 
 description: "Looking for a quick and easy-to-use option to share and send files, I came across transfer.sh. As it turns out, this is an ideal form of file sharing like WeTransfer or mega.nz, but for sending files via CLI." 
-socialImage: "media/code-2.jpg" 
+socialImage: "media/server-9.jpg" 
 ---
 Looking for a quick and easy-to-use option to share and send files, I came across transfer.sh. As it turns out, this is an ideal form of file sharing like WeTransfer or mega.nz, but for sending files via CLI. Obviously, the best option for sending files is direct data transfer using SCP or rsync. But for Polish people that we can go public or servers that don't have direct IP or exit, this is an interesting option.
 

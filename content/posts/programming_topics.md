@@ -10,7 +10,7 @@ tags:
 - "Knowledge books"
 - "Dev"
 description: ""
-socialImage: "media/code-1.jpg"
+socialImage: "media/server-7.jpg"
 ---
 
 [Unit Testing Your Web Scraper](https://dev.to/albertulysses/unit-testing-your-web-scraper-1aha)

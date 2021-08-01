@@ -10,14 +10,14 @@ tags:
   - "Dev"
   - "Ops / DevOps"
 description: "When installing a bash open source project, I was always full of admiration for the developers who implemented the graphical interface. I was curious how it works and how I could apply it to my projects. The solution is simple - whiptail"
-socialImage: "media/code-2.jpg"
+socialImage: "media/server-4.jpg"
 ---
 When installing a bash open source project, I was always full of admiration for the developers who implemented the graphical interface. I was curious how it works and how I could apply it to my projects. The solution is simple. It is the whiptail.
 
 ## whiptail
 Whiptail is one of the popular programs that allows you to display dialog boxes in the shell. Proper preparation of steps and good ability to write shell scripts allows you to skillfully extract a lot of information from it and use it to build automated scripts.
 
-![Basic functions of whiptail](/media/code-2.jpg)
+![Basic functions of whiptail](/media/server-4.jpg)
 
 The basic program boxes include
 - message box

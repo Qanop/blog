@@ -9,11 +9,11 @@ tags:
   - "Technology"
   - "Dev"
 description: "When trying to communicate with our application, we always expect that it is available and can handle our request at a given moment. However, if these things are not certain, or we need to operate in a distributed structure with no known source where the request is to go, we can use task queuing"
-socialImage: "media/code-3.jpg"
+socialImage: "media/server-8.jpg"
 ---
 When trying to communicate with our application, we always expect that it is available and can handle our request at a given moment. However, if these things are not certain, or we need to operate in a distributed structure with no known source where the request is to go, we can use task queuing.
 
-![Knowledge books: Python](/media/code-3.jpg)
+![Knowledge books: Python](/media/server-8.jpg)
 
 Queuing is most often used when starting actions that require more processing time and are not required to get immediate results. Therefore, when writing various types of websites, the handling of these orders is triggered in separate processes. The very implementation of the queuing system into your project is also not difficult.
 

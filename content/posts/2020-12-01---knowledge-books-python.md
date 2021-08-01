@@ -10,13 +10,13 @@ tags:
 - "Knowledge books"
 - "Dev"
 description: "A list of useful topics related to the language, its functionality and small snippets. Everything that may be useful now or in the future"
-socialImage: "media/code-2.jpg"
+socialImage: "media/server-7.jpg"
 ---
 _**Knowledge books** is a mini series of constantly updated articles in which I share my more interesting discoveries_
 
 Each language has its own nice extras. The same applies to the functions and usability of the basic functions of the programs. Of course, the important thing is that if some parts are not used on a daily basis, they may be forgotten. Therefore, here are some brief notes on this language functions and methods of implantation. Written knowledge cannot be forgotten.
 
-![Knowledge books: Python](/media/code-2.jpg)
+![Knowledge books: Python](/media/server-7.jpg)
 
 Table of Contents:
 - [Array operations](#array-operations)

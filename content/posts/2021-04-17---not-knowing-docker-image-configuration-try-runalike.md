@@ -9,7 +9,7 @@ tags:
   - "Technology" 
   - "Ops / DevOps" 
 description: "The `docker inspect` will certainly come in handy, but the same one can little be unreadable - or it just requires the unreasonable rewriting of all values of the indicated result. Therefore, a simple image of assaflava / runlike was created which makes the work easier" 
-socialImage: "media/code-3.jpg" 
+socialImage: "media/server-10.jpg" 
 ---
 There is a chance that after entering the server, we do not know with what command docker image was launched. The `docker inspect` will certainly come in handy, but the same one can little be unreadable - or it just requires the unreasonable rewriting of all values of the indicated result. Therefore, a simple image of assaflava / runlike was created which makes the work easier.
 The approach to the painting is simple. It is required to connect the socket docker and indicate the image. The output will be a printed result presented as a complete docker run command including all switches

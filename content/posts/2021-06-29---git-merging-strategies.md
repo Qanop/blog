@@ -9,7 +9,7 @@ tags:
   - "Technology"
   - "Ops / DevOps"
 description: "Git is a great tool for managing your code version. It is also a tool where we can easily draw figures such as triangles, trapezoids, and other figures. How to find yourself on a railroad crossing? Try not to get lost at our train station?"
-socialImage: "media/server-2.jpg"
+socialImage: "media/server-3.jpg"
 ---
 Git is a great tool for managing your code version. It is also a tool where we can easily draw figures such as triangles, trapezoids, and other figures. How to find yourself on a railroad crossing? Try not to get lost at our train station?
 

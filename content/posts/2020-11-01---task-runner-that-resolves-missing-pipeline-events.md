@@ -10,7 +10,7 @@ tags:
   - "Dev"
   - "CI / CD"
 description: "When creating pipelines for releasing things to the environment, we may run into the problem of handling too few events. By searching the internet, we can find a quite interesting task runner library that will help us in missing pipelines events"
-socialImage: "media/code-1.jpg"
+socialImage: "media/server-2.jpg"
 ---
 When creating pipelines for releasing things to the environment, we may run into the problem of handling too few events. While searching the internet, I encountered an interesting task runner library. Upon closer acquaintance with the library, it will be possible to supplement the missing functions of pipelines offered in cloud solutions.
 

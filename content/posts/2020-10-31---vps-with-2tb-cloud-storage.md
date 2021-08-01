@@ -9,7 +9,7 @@ tags:
   - "Technology"
   - "Ops / DevOps"
 description: "A lot of people have a collection of movies or photos that they would like to share with friends. Installing Netflix imitation services is good, but requires a really large amount of costly space on the VPS servers. Of course, there is a solution for that"
-socialImage: "media/movie.jpg"
+socialImage: "media/server-1.jpg"
 ---
 I have to admit, having your own private Netflix-like service is really nice.
 
@@ -20,7 +20,7 @@ Ever if you install media center on the server and want to store a collection of
 
 Unfortunately, for VPS servers, the matter of renting additional space becomes even more complicated Therefore, before approaching the topic, you should consider what problems you may encounter when accessing and reading/writing multimedia from the server.
 
-![Solutions for own media center](/media/movie.jpg)
+![Solutions for own media center](/media/server-1.jpg)
 
 #### Home server
 The first solution is to have your own home server. However, this requires an investment in an additional large external drive, and the design itself does not look so nice. Of course, for most people, the very result of the work will be important. Such a server will have a problem with exposing the service to the world, but you can connect to it using DDNS or VPN service — which unfortunately makes the availability of the device difficult if we are away from home. Another disadvantage is the amount of session maintenance and usage of CPU for video encoding. It may turn out that it will not be possible to support more than two users at the same time. If these drawbacks are not that important to someone, you can always use this solution.

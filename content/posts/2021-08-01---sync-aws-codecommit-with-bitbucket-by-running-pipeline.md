@@ -9,7 +9,7 @@ tags:
   - "Technology"
   - "Ops / DevOps"
 description: "There is the way to sync our repository to AWS CodeCommit and other services to be later used in private pipelines - without additional app auth's"
-socialImage: "media/server-3.jpg"
+socialImage: "media/server-6.jpg"
 ---
 If you don't have access to the official integration of the two apps and their repositories, just do your own sync.
 
@@ -31,7 +31,6 @@ Later try to encode it with: `base64 ~/.ssh/configBitbucket`
 ### Set Environment Variables
 Now with base64 result, use it in Bitbucket Environment Variables
 
-Env's:
 - CodeCommitConfig: OUR_BASE64_CONFIG
 - CodeCommitHost: git-codecommit.aws-region.amazonaws.com
 - CodeCommitRepository: git-codecommit.aws-region.amazonaws.com/v1/repos/sample

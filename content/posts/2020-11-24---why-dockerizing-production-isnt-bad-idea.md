@@ -10,13 +10,13 @@ tags:
 - "Ops / DevOps"
 - "CI / CD"
 description: "The use of docker is a common technique in dev teams. But really, creating and using the complete ready-made image shows its potential in the production environment. I think this post will convince some Ops to look more positively at running closed images over the installation and putting projects directly on the servers"
-socialImage: "media/server-3.jpg"
+socialImage: "media/server-6.jpg"
 ---
 The use of docker is a common technique in dev teams. But really, creating and using the complete ready-made image shows its potential in the production environment. I think this post will convince some Ops people to look more positively at running closed images over the installation and putting projects directly on the servers.
 
 There are many benefits to using images. For the development of the application, its tests, and automation, up to a running product. Along with the development of the industry, there were also many new technologies enabling the management of more servers as part of the application publishing itself. Some of them were designed directly by the current cloud operators. The emergence of a new branch of technology also forced the creation of a new profession - DevOps.
 
-![Birth of DevOps](/media/server-3.jpg)
+![Birth of DevOps](/media/server-6.jpg)
 
 Each team looks for Docker and its derivative benefits in terms of work efficiency and simplification of the tasks assigned to them. Therefore, to better understand each of the teams and their point of view, each has its chapter. This will allow you to understand the possibility of using this technology in every step of the project.
 
