@@ -2,7 +2,7 @@
 title: Fixing my e-bike's speedometer and battery
 date: "2021-09-26T21:47:27.000Z"
 template: "post"
-draft: false
+draft: true
 slug: "fixing-my-e-bikes-speedometer-and-battery"
 category: "Technology"
 tags:
