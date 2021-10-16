@@ -33,7 +33,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Przemysław Sawczuk',
+    name: 'Just another simple blog.',
     photo: '/photo.jpg',
     bio: 'Just a simple, personal blog to save and share knowledge.',
     contacts: {
