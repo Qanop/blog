@@ -41,7 +41,7 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'atryni',
+      github: 'qanop',
       rss: '',
       vkontakte: '',
       linkedin: '',
