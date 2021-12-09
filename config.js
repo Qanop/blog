@@ -37,7 +37,7 @@ module.exports = {
     photo: '/photo.png',
     bio: 'Just a simple, personal blog to save and share knowledge.',
     contacts: {
-      email: 'przemeksawczuk@yahoo.pl',
+      email: 'przemyslaw@sawczuk.dev',
       facebook: '',
       telegram: '',
       twitter: '',
