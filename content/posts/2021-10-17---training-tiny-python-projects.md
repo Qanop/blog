@@ -6,8 +6,8 @@ draft: false
 slug: "training-tiny-python-projects"
 category: "Technology"
 tags:
-  - "Dev"
   - "Technology"
+  - "Dev"
 description: "Website containing simple challenges in Python to clear mind and train your skills."
 socialImage: "media/server-10.jpg"
 ---
