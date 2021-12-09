@@ -9,7 +9,7 @@ tags:
   - "Technology"
   - "Ops / DevOps"
 description: "If you want to run multiple WordPress sites and other services but don't have time to configure each one with their specific library versions, you can set all in one big docker config"
-socialImage: "media/server-11.jpg"
+socialImage: "media/server-1.jpg"
 ---
 If you want to run multiple WordPress sites and other services but don't have time to configure each one with their specific library versions, you can set all in one big docker config. To run this all, you'll need an app image itself, reverse proxy preferably with SSL automation and in most cases' database.
 
