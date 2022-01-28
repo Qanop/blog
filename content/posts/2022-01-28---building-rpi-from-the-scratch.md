@@ -27,8 +27,9 @@ crontab -e
 # 0 5 * * * pihole -up
 ```
 
-I have to admit that PiHole's basic blacklists do a good job of filtering ads, but there are places on the web that require more url restriction (like scammer sites). I previously used [firebog](https://firebog.net/) list for this and manually tried to add lists of blocked sites to the tool. However, as it turns out, someone smart has added their [program](https://github.com/jessedp/pihole5-list-tool) to automatically add the appropriate list option from both [firebog](https://firebog.net/) (blacklist) and [anudeepND/whitelist](https://github.com/anudeepND/whitelist) (whitelist).
-Also try to consider more focused on your home devices lists:
+I have to admit that PiHole's basic blacklists do a good job of filtering ads, but there are places on the web that require more url restriction (like scammer sites). I previously used firebog list for this and manually tried to add lists of blocked sites to the tool. However, as it turns out, someone smart has added their [python script](https://github.com/jessedp/pihole5-list-tool) to automatically add the appropriate list option from both [firebog](https://firebog.net/) (blacklist) and/or [anudeepND/whitelist](https://github.com/anudeepND/whitelist) (whitelist).
+
+Also consider adding blocklists focused on your home smart devices:
 - [Xiaomi DNS blocklist](https://github.com/unknownFalleN/xiaomi-dns-blocklist)
 
 ```shell
