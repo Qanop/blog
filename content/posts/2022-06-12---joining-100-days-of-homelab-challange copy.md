@@ -11,7 +11,7 @@ tags:
   - "Technology"
   - "Ops / DevOps"
 description: "At the beginning of the month, following the words of my friend, I started looking into putting up a HomeLab server. After many instances during this short journey, I finally managed to make a server to put up my home services, which I needed for a long time"
-socialImage: "media/server-4.jpg"
+socialImage: "media/server-5.jpg"
 ---
 At the beginning of the month, following the words of my friend, I started looking into putting up a HomeLab server. After many instances during this short journey, I finally managed to make a server to put up my home services, which I needed for a long time.
 
