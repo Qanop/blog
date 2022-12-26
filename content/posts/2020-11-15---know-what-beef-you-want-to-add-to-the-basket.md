@@ -4,7 +4,7 @@ date: "2020-11-15T18:00:50.000Z"
 template: "post"
 draft: false
 slug: "know-what-beef-you-want-to-add-to-the-basket"
-category: "Cooking"
+category: "Daily life"
 tags:
 - "Cooking"
 description: "Buying good kind of meat is really important. It may turn out that the meat seen on the promotion or on the shelf may not completely match our dish. Therefore, it makes sense to have a list of meat that are suitable for specific dishes. It is also worth being aware of what the meat should look like or what price you can expect"

@@ -9,7 +9,7 @@ I share my works most often by [posting on the Flickr channel](https://www.flick
 
 
 ## I am a software developer.
-The current commercial experience that I have is based on 3 programming languages. Each of the languages ​​used in the project is used for different purposes, but their placement gives the best possible results for the given task. I love learning about new technologies and tools. Thanks to them, we can set ourselves higher and higher design requirements and push the development of the project without fear of encountering a technological bottleneck. Of course, during the project breaks between programming tasks, I also deal with Ops and DevOps topics. 
+The current commercial experience that I have is based on 3 programming languages. Each of the languages used in the project is used for different purposes, but their placement gives the best possible results for the given task. I love learning about new technologies and tools. Thanks to them, we can set ourselves higher and higher design requirements and push the development of the project without fear of encountering a technological bottleneck. Of course, during the project breaks between programming tasks, I also deal with Ops and DevOps topics. 
 
 Recently, I have been spending my time learning project-related procedures and tools as well as allowing for better server scalability. Time will show what you can get. :)
 

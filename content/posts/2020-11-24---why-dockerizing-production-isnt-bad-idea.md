@@ -8,7 +8,6 @@ category: "Technology"
 tags:
 - "Technology"
 - "Ops / DevOps"
-- "CI / CD"
 description: "The use of docker is a common technique in dev teams. But really, creating and using the complete ready-made image shows its potential in the production environment. I think this post will convince some Ops to look more positively at running closed images over the installation and putting projects directly on the servers"
 socialImage: "media/server-6.jpg"
 ---

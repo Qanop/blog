@@ -8,7 +8,6 @@ category: "Technology"
 tags:
   - "Technology"
   - "Ops / DevOps"
-  - "CI / CD"
 description: "With the use of git-crypt, we can secure sensitive data, keys or passwords without separating them outside the repository"
 socialImage: "media/server-2.jpg"
 ---

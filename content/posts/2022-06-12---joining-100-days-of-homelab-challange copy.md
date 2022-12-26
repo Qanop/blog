@@ -7,7 +7,6 @@ slug: "joining-100-days-of-homelab-challange"
 category: "Technology"
 tags:
   - "#100DaysOfHomeLab"
-  - "HomeLab"
   - "Technology"
   - "Ops / DevOps"
 description: "At the beginning of the month, following the words of my friend, I started looking into putting up a HomeLab server. After many instances during this short journey, I finally managed to make a server to put up my home services, which I needed for a long time"

@@ -8,7 +8,6 @@ category: "Technology"
 tags:
   - "Technology"
   - "Ops / DevOps"
-  - "CI / CD"
 description: "When creating pipelines, we often use already-made code we've written ourselves in previous projects. Whether in GitHub Actions we can replace them with maintained actions!"
 socialImage: "media/server-11.jpg"
 ---

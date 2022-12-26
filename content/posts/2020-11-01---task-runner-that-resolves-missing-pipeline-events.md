@@ -8,7 +8,6 @@ category: "Technology"
 tags:
   - "Technology"
   - "Dev"
-  - "CI / CD"
 description: "When creating pipelines for releasing things to the environment, we may run into the problem of handling too few events. By searching the internet, we can find a quite interesting task runner library that will help us in missing pipelines events"
 socialImage: "media/server-2.jpg"
 ---

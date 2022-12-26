@@ -4,9 +4,8 @@ date: "2020-11-16T00:04:08.000Z"
 template: "post"
 draft: false
 slug: "knowledge-books-photography-inspirations-and-cheat-sheets"
-category: "Photography"
+category: "Knowledge books"
 tags:
-- "Photography"
 - "Knowledge books"
 description: "It happens that in the photos with the model we have no idea for new frames, or the ones that were used are repeated in each session. When looking for alternatives of styles, poses, arrangement of light or the use of objects in web, we often come across links that are not needed at the moment. However, it is worth saving them for later and grouping them"
 socialImage: "media/photo-2.jpg"

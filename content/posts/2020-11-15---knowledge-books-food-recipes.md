@@ -4,7 +4,7 @@ date: "2020-11-15T19:08:58.000Z"
 template: "post"
 draft: false
 slug: "knowledge-books-food-recipes"
-category: "Cooking"
+category: "Knowledge books"
 tags:
 - "Cooking"
 - "Knowledge books"

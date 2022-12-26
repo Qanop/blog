@@ -8,7 +8,6 @@ category: "Technology"
 tags:
   - "Technology"
   - "Ops / DevOps"
-  - "CI / CD"
 description: "There is a situation where we forget to format our code before submitting changes. But what if git does it for us?"
 socialImage: "media/server-8.jpg"
 ---

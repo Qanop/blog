@@ -37,3 +37,6 @@ sync-master:
 	git rebase dev && git push
 	git checkout dev
 	git stash pop
+
+new-post:
+	./scripts/new-post.sh
