@@ -7,7 +7,7 @@ slug: "working-remote-from-other-side-of-the-world"
 category: "Daily life"
 tags:
   - "Daily life"
-description: "Few months I moved to other side of the world. Live is good. But what next?"
+description: "Few months I moved to other side of the world. Life is good. But what next?"
 socialImage: "media/notes-1.jpg"
 ---
 It's been a while since I last posted an update on the blog, but believe me, a lot has changed. For a few months, I've been trying to sort out things related to a trip to the other side of the world. The reason? To visit my friend who decided to move to Thailand for a while. The journey... Well, what was originally planned as a quick test of remote work as a 3-week vacation + 3 weeks of remote work, to then return to Europe, fell to pieces and turned into a permanent stay for me in the very center of Bangkok (with plans changing to stay for 2 months, 3 months until the holidays, maybe 6 months until the end of winter, AND I DON'T KNOW IF THIS WILL BE THE LAST CHANGE OF PLANS).
