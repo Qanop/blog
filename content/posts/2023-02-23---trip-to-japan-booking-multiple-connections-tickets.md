@@ -14,6 +14,8 @@ In few weeks I plan to go take a flight to Japan. But to spare some money, I pla
 
 Flying from my initial airport in Bangkok (Thailand), I plan to go to Japan via Ho Chi Minh (Vietnam) airport. However, there is a catch in booking system. If you have booked two separate tickets for your journey and need to transit at the Vietnam airport as me, you need to fulfill additional visa requirements.
 
+![Trip to Japan: Booking multiple connections tickets](/media/notes-2.jpg)
+
 Firstly, it is crucial to check the [visa requirements for Vietnam](https://visaguide.world/asia/vietnam-visa/do-i-need-a-visa-for-vietnam/) before you book your tickets. Depending on your nationality and the length of your stay in Vietnam, you may need to apply for a visa in advance or obtain a visa on arrival. It is important to note that if you are transiting through Vietnam without leaving the airport, you may still require a Vietnam Transit Visa ($25 fee). 
 
 As official articles say, if you are transiting in an airport in Vietnam and omitting all Vietnam Transit Visa acquire problems, you need to fulfill this steps:
