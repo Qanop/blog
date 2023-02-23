@@ -7,7 +7,7 @@ slug: "trip-to-japan-booking-multiple-connections-tickets"
 category: "Daily life"
 tags:
   - "Daily life"
-description: "Some disadvantages of cheap traveling through SEASIA by multiple connections flights"
+description: "As I was planning my trip, my top choice stood on affordable flights. As risky as it is sometimes, I want to share some disadvantages of cheap traveling through SEASIA by multiple connections flights"
 socialImage: "media/notes-2.jpg"
 ---
 In few weeks I plan to go take a flight to Japan. But to spare some money, I plan to use multiple connections over direct flights - what it also comes with some disadvantages.

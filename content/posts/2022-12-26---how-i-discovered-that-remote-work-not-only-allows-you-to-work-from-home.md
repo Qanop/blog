@@ -7,7 +7,7 @@ slug: "how-i-discovered-that-remote-work-not-only-allows-you-to-work-from-home"
 category: "Daily life"
 tags:
   - "Daily life"
-description: "I worked remotely from another country to improve my mental and physical health."
+description: "I worked remotely from another country to improve my mental and physical health. I want to share quick note how it worked out, and what my future steps might be"
 socialImage: "media/notes-1.jpg"
 ---
 It's been a while since I last posted an update on the blog, but believe me, a lot has changed. For a few months, I've been trying to sort out things related to a trip to rather far country. The reason? To visit my friend who decided to move from the Netherlands to other place for a while. The journey... Well, what was originally planned as a quick test of remote work as a 3-week vacation + 3 weeks of remote work, to then return to my home, fell to pieces and turned into quite a long stay for me in the very center foreign country (when all my plans changed to stay here for only 2 months, then 3 months until the Christmas, to maybe 6 months until the end of winter - and as today, to not have plan to return that quickly to my country and thinking how to stay here longer).
