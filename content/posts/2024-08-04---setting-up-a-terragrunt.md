@@ -13,10 +13,11 @@ socialImage: "media/server-4.jpg"
 ---
 Setting up a Terragrunt repository effectively maybe it's hard, but it's crucial for maintaining a clean, secure, and efficient infrastructure-as-code workflow. With this post, I wanted to share a quick tips, how in project maintained by me, through few years of experimentation I was able to structuring Terragrunt repository and configuring it with SOPS for secrets management, TFLint for Terraform linting, Pre-commit hooks for maintaining code quality, Tofuutils/Tenv for environment management and more.
 
+![Setting Up a Terragrunt with tfEnv, SOPS, TFLint, and pre-commit](/media/server-4.jpg)
+
 ## Repository Structure
 First things, firsts. Before we start going through entire process of setting up full scale Terraform project, I want to point, what additional programs and wrappers I use in my daily projects.
 
-![Setting Up a Terragrunt with tfEnv, SOPS, TFLint, and pre-commit](/media/server-4.jpg)
 
 Recommended stack at start of the project:
 - [tfenv](https://github.com/tfutils/tfenv) / [tenv](https://github.com/tofuutils/tenv) for keeping same version of terraform in entire project
