@@ -1,10 +1,7 @@
 # Blog repository
 
-This blog uses Gatsy project to build dynamic [sawczuk.dev](https://sawczuk.dev) blog page.
+Newest deployment status: 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9d24f30-c583-4850-af5d-daccbccb1ff9/deploy-status)](https://app.netlify.com/sites/sawczuk-dev/deploys)
 
-0. install tools `make install-tools`
-0. install project `make install`
-0. install develop `make develop`
-0. push changes to repository
-0. automate website publish with GitHub Actions
-0. sync branches with `sync-dev`/`sync-master` if you are lazy, to do proper gitflow on private repo ;)
+
+This blog uses Gatsy project to build dynamic [sawczuk.dev](https://sawczuk.dev) blog page.

@@ -16,6 +16,8 @@ Setting up a Terragrunt repository effectively maybe it's hard, but it's crucial
 ## Repository Structure
 First things, firsts. Before we start going through entire process of setting up full scale Terraform project, I want to point, what additional programs and wrappers I use in my daily projects.
 
+![Setting Up a Terragrunt with tfEnv, SOPS, TFLint, and pre-commit](/media/server-4.jpg)
+
 Recommended stack at start of the project:
 - [tfenv](https://github.com/tfutils/tfenv) / [tenv](https://github.com/tofuutils/tenv) for keeping same version of terraform in entire project
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) is a state and variables maintaining terraform wrapper
@@ -26,7 +28,7 @@ Recommended stack at start of the project:
 
 Having that in mind, here's an overview of the recommended repository structure:
 
-```
+```terraform
 . (root)
 ├── .pre-commit-config.yaml
 ├── .tflint.hcl
@@ -58,7 +60,7 @@ Having that in mind, here's an overview of the recommended repository structure:
 ## Setting up basics
 For start we need to create few files and folders to ensure, that future state maintaining through Terragrunt and sorted by folders tree will reflect future project structure, used regions, environments and other splits of used infrastructure.
 
-```
+```terraform
 . (root)
 ├── modules
 │   ├── resource-group
@@ -140,7 +142,7 @@ inputs = merge(
 ## Specify the Terraform version
 To ensure consistency across different environments, the best approach is to set one version of used program in the project. For this, it's recommended to use tfenv or tenv (Fork of tfenv, supporting also OpenTOFU and Windows system). Setting of it is pretty simple. In the `subscriptions` folder, we need to create file `.terraform-version`. This file contains version, that is recommended to use in project. Everytime, that terragrunt use terraform version control, it look at this file and pick up right binary.
 
-```bash
+```
 1.10.0
 ```
 
