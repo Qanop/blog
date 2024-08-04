@@ -152,7 +152,17 @@ To keep repeating variables in one place, we need to create those files:
 - `subscriptions/nonprd/sub.hcl` Specific configurations for the non-production subscription.
 - `subscriptions/nonprd/dev/environment.hcl` Specific configurations for the only this environment.
 
-After loading them into main `subscriptions/terragrunt.hcl`, they are generally viable in every default inputs field of used module. By this case, only additional inputs, that are required for working module are dependencies ones.
+After loading them into main `subscriptions/terragrunt.hcl`, they are generally viable in every default inputs field of used module. By this case, only additional inputs, that are required for working module are dependencies ones. Good example of variable simplifications is file `subscriptions/nonprd/dev/resource-group/terragrunt.hcl` showed below.
+
+```hcl
+include {
+  path = find_in_parent_folders()
+}
+
+terraform {
+  source = "../../../../modules//resource-group"
+}
+```
 
 ## Using SOPS for Secrets Management
 SOPS is used to manage secrets securely. Encrypted files like `sops.global.enc.yml`, `sops.sub.enc.yml`, and `sops.environment.enc.yml` store sensitive data. To decrypt and use these files, user should usually have permissions to read keyvault keys on provided cloud or could verify its GPG fingerprint registered in SOPS files.
