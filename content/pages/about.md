@@ -3,35 +3,53 @@ title: "About me"
 template: "page"
 socialImage: "media/about.jpg"
 ---
-## I am a photographer.
-In my spare time I do portrait photography. It is an interesting art that lead you to work and match up with another person. This way can open door to many styles of photography. Everyone works differently and different styles suit them. Therefore, each subsequent photo session gives me pleasure and allows me to implement more and more new ideas.  
-I share my works most often by [posting on the Flickr channel](https://www.flickr.com/photos/atryniphotography/). Sometimes photos are also posted on social networks.
+## Blogging as a Hobby
+_I write this blog in my free time as a way to share news, knowledge, and practical solutions with the wider community. Many of the topics I cover address rare or challenging problems that I personally struggled to solve—by documenting these solutions, I hope to make them easier to find and help others avoid repeating the same search cycle._
 
+> Sharing what I learn is both a passion and a way to give back to the tech community.
 
-## I am a software developer.
-The current commercial experience that I have is based on 3 programming languages. Each of the languages used in the project is used for different purposes, but their placement gives the best possible results for the given task. I love learning about new technologies and tools. Thanks to them, we can set ourselves higher and higher design requirements and push the development of the project without fear of encountering a technological bottleneck. Of course, during the project breaks between programming tasks, I also deal with Ops and DevOps topics. 
+---
+## Senior DevOps Engineer
+As a Senior DevOps Engineer, I specialize in architecting and scaling cloud-native solutions for enterprise and startup clients. My expertise spans Azure and AWS, with a proven track record of leading DevOps transformations, optimizing infrastructure, and enabling high-performing teams.
 
-Recently, I have been spending my time learning project-related procedures and tools as well as allowing for better server scalability. Time will show what you can get. :)
+I have successfully managed Azure infrastructure for **40+ microservices** supporting request flow **over 10,000 users**, driving **migrations from Bicep to Terraform** and orchestrating the **transition to Kubernetes** (AKS), resulting in a **35% boost in costs and scalability**. My **hybrid cloud/on-premises** designs leverage Terraform and Helm for flexible, secure deployments across diverse environments.
 
-I would like to post my thoughts and actions on my website. This is a good place for me to take notes on a topic, find a solution to a topic, and maybe come back to it after a while. It is also an ideal situation to be able to share them with others. Well, maybe someone will come in handy someday when they have a problem. Either way, sharing what you've learned is the key to faster development. So... TEST> COMMIT> PUSH> RELEASE
+I am passionate about automation and efficiency—reducing infrastructure setup time by 30% for multiple clients through robust scripting and CI/CD pipelines. 
 
-In addition, apart from industry experience, I also learn and develop in other technologies. List of several projects in which I participated.
+I have mentored DevOps teams, authored comprehensive runbooks and tutorials, and championed best practices in security, observability (ELK), and documentation.
 
-#### PRODUCT OFFERS SEARCH ENGINE FROM VARIOUS ADVERTISING PORTALS
+Key skills:  
+- OnPrem: Proxmox, Linux
+- Cloud: Azure (AKS, ApiM, App Services, Databases, Key Vault, FrontDoor), AWS (EC2, S3, IAM, EKS)
+- IaC: Terraform, Bicep
+- Orchestration: Kubernetes, Helm, Docker
+- CI/CD: Azure DevOps, GitLab, AWS CodePipeline
+- Monitoring: ELK Stack, Prometheus, Grafana
+- Version Control: Git, GitHub, GitLab, pre-commit hooks
+- Automation: Python, Bash, Ansible, Semaphore
+- Mentorship, Documentation, Security Best Practices, Runbooks
 
-Language: **ReactJS**, **Python/Scrapy**, **MongoDB**, **PHP/Symfony 5**  
-Technology: **Nginx**, **Docker**  
-*Project collects detailed offers from various advertising portals. As the final result allows user the aggregation of collected data and display them on a page written in a modern JavaScript framework.*
+I thrive in dynamic environments, bridging development and operations, and empowering teams to deliver reliable, scalable, and secure solutions.
 
-#### INVOICE REGISTRATION SYSTEM FOR ENTREPRENEUR
-Language: **PHP/Symfony 3**, **Javascript/jQuery**  
-Technology: **Apache2**, **PostgreSQL**, **BashScript**, **Docker**  
-*Creating and storing invoice data app for clients, managing data and integration with GUS and US systems. The program was one of a few CRM's created and supported by me for internal needs of companies. Created program used the integration of external api, generating PDF documents using bash scripts and creating collective reports for accounting departments.*
+---
+## Community & Meetups
 
-#### DEBIAN HOMESERVER PACKAGE MANAGER
-Language: **BashScript**  
-*During the next installation of Debian on my RaspberryPi device, I came up with the idea of creating an automatic script for installing basic tools that will be useful to new users. Therefore, through the prepared visual console menu, the user selects the corresponding software for his home standalone server such as PiHole, file/www server, instance manager and others. Script is under the MIT license and is open to extensions.*
+I actively participate in IT Tech meetups to stay updated on the latest advancements, tools, and solutions used by other professionals and companies. Engaging with the tech community allows me to exchange knowledge, share discoveries, and build a strong network across multiple technology sectors. 
 
-#### PATTERN DETECTION IN HIGH QUALITY VIDEO STREAM
-Technology: **Python**, **OpenCV**
-*The project analyzed motion in real time using high resolution images. It was the first IT project that I fully built. It was used as part of the traffic analysis in Wrocław.*
+This collaborative approach helps me bring fresh perspectives and proven solutions to my team, ensuring we always have access to the best practices and a diverse set of skills.
+
+To stay up-to-date, I connect my feed to platforms like **dev.to**, **Medium**, and update feeds of the tools and technologies I use. This helps me track the latest news, releases, and best practices for the solutions I maintain, ensuring my knowledge and content remain current.
+
+---
+## Homelab Enthusiast
+I am passionate about building and experimenting with homelab environments. My home rack features a **3-node cluster** running a **20TB ZFS NAS**, architected for **3-2-1 redundancy** and offsite backups to ensure data durability.
+
+I regularly explore new tools, automate infrastructure, and design high-availability solutions for private clusters. My setup serves as a sandbox for testing Kubernetes deployments, CI/CD pipelines, and advanced networking—enabling me to prototype, break, and improve systems in a safe, hands-on environment.
+
+Beyond infrastructure, I create home automations and native off-cloud tools to streamline daily routines and enhance privacy. I monitor my solutions with self-hosted observability stacks, ensuring reliability and rapid troubleshooting. I leverage n8n for workflow automation and integrate local AI tools to improve system integrations and experiment with intelligent automation.
+
+This continuous experimentation sharpens my skills and keeps me at the forefront of DevOps and automation innovation.
+
+---
+## Contact Me
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/psawczuk/).

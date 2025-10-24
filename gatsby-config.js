@@ -87,6 +87,7 @@ module.exports = {
                         template
                         draft
                         description
+                        socialImage
                       }
                     }
                   }
@@ -142,6 +143,7 @@ module.exports = {
                         template
                         draft
                         description
+                        socialImage
                       }
                     }
                   }
