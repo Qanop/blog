@@ -3,22 +3,22 @@
 module.exports = {
   url: 'https://sawczuk.dev',
   pathPrefix: '/',
-  title: 'Just another fancy blog.',
-  subtitle: 'The beginning is never easy. But we can get used to the difficulties and add a baggage of experience along the way.',
+  title: 'Just another simple blog',
+  subtitle: 'Sharing what I learn is both a passion and a way to give back to the tech community.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 8,
+  postsPerPage: 12,
   googleAnalyticsId: 'G-T8MT7MK19V',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
-    {
-      label: 'Knowledge books',
-      path: '/tag/knowledge-books'
-    },
+//    {
+//      label: 'Knowledge books',
+//      path: '/tag/knowledge-books'
+//    },
     {
       label: 'Tags',
       path: '/tags'
@@ -26,16 +26,16 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Curriculum Vitae',
-      path: '/media/eng_CV.pdf'
     }
+//    {
+//      label: 'Curriculum Vitae',
+//      path: '/media/eng_CV.pdf'
+//    }
   ],
   author: {
     name: 'Just another simple blog.',
     photo: '/photo.png',
-    bio: 'Just a simple, personal blog to save and share knowledge.',
+    bio: 'Sharing what I learn is both a passion and a way to give back to the tech community.',
     contacts: {
       email: 'przemyslaw@sawczuk.dev',
       facebook: '',
@@ -44,7 +44,7 @@ module.exports = {
       github: 'qanop',
       rss: 'https://sawczuk.dev/rss',
       vkontakte: '',
-      linkedin: '',
+      linkedin: 'psawczuk',
       instagram: '',
       line: '',
       gitlab: '',
@@ -52,7 +52,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      flickr: 'atryniphotography',
+      flickr: '',
       www: '' // 'https://sawczuk.dev/'
     }
   }

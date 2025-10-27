@@ -16,8 +16,8 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/Atryni/blog",
-  "author": "Przemysław Sawczuk <przemeksawczuk@gmail.com>",
+  "repository": "https://github.com/qanop/blog",
+  "author": "Przemysław Sawczuk <przemyslaw@sawczuk.dev>",
   "license": "MIT",
   "keywords": [
     "gatsby",

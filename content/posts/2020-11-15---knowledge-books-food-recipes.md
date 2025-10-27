@@ -2,7 +2,7 @@
 title: "Knowledge books: Food recipes"
 date: "2020-11-15T19:08:58.000Z"
 template: "post"
-draft: false
+draft: true
 slug: "knowledge-books-food-recipes"
 category: "Knowledge books"
 tags:

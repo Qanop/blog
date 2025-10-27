@@ -3,12 +3,8 @@ title: "About me"
 template: "page"
 socialImage: "media/about.jpg"
 ---
-## Blogging as a Hobby
-_I write this blog in my free time as a way to share news, knowledge, and practical solutions with the wider community. Many of the topics I cover address rare or challenging problems that I personally struggled to solve—by documenting these solutions, I hope to make them easier to find and help others avoid repeating the same search cycle._
-
 > Sharing what I learn is both a passion and a way to give back to the tech community.
 
----
 ## Senior DevOps Engineer
 As a Senior DevOps Engineer, I specialize in architecting and scaling cloud-native solutions for enterprise and startup clients. My expertise spans Azure and AWS, with a proven track record of leading DevOps transformations, optimizing infrastructure, and enabling high-performing teams.
 
@@ -30,6 +26,11 @@ Key skills:
 - Mentorship, Documentation, Security Best Practices, Runbooks
 
 I thrive in dynamic environments, bridging development and operations, and empowering teams to deliver reliable, scalable, and secure solutions.
+
+## Blogging as a Hobby
+_I write this blog in my free time as a way to share news, knowledge, and practical solutions with the wider community._
+
+_Many of the topics I cover address rare or challenging problems that I personally struggled to solve—by documenting these solutions, I hope to make them easier to find and help others avoid repeating the same search cycle._
 
 ---
 ## Community & Meetups

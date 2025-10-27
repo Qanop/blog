@@ -2,7 +2,7 @@
 title: "Knowledge books: Photography inspirations and cheat sheets"
 date: "2020-11-16T00:04:08.000Z"
 template: "post"
-draft: false
+draft: true
 slug: "knowledge-books-photography-inspirations-and-cheat-sheets"
 category: "Knowledge books"
 tags:

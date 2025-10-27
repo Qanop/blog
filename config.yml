@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Atryni/blog
+  repo: qanop/blog
   branch: master
   site_domain: youthful-lumiere-5fca18.netlify.com
 
