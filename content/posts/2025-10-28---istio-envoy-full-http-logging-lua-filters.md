@@ -127,9 +127,12 @@ meshConfig:
 ```
 
 # Observability results
-After deploy this configuration to `Istio` and watch the log of a sidecar or a gateway, you will see a log output as shown below. This log can easily by forwarded to an `ElasticSearch stack`, which will parse the JSON output to dedicated fields. Now you have a fully fledged HTTP traffic log of your `Istio service mesh`.
+After deploy this configuration to `Istio` and watch the log of a sidecar or a gateway, you will see a log output as shown below. This log can easily by forwarded to an `ElasticSearch stack`, which will parse the JSON output to dedicated fields. Now you have a fully fledged HTTP traffic log of your `Istio service mesh`. 
+
+_**Also... Shoutout!** Check out k8s solutions made by [oversees engineers](https://devpress.csdn.net/k8s)._
 
 _Have fun and keep logging!_
+
 ```yaml
 {
     "requestBody": "{ \"request\": \"hi there\" }",
@@ -181,4 +184,3 @@ _Have fun and keep logging!_
     "targetDuration": 1
 }
 ```
-_Check out more k8s solutions made by [oversees engineers](https://devpress.csdn.net/k8s)._
